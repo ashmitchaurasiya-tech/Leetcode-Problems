@@ -1,41 +1,40 @@
 # LeetCode Problems 🧩
 
-A collection of **LeetCode problems solved by me** while learning and improving my problem-solving and DSA skills.
+A collection of **LeetCode problems solved by me** while learning DSA and improving my problem-solving skills.
 
-## 📚 Topics Covered
-
-* Arrays
-* Pointers
-* Searching
-* Sorting
-* Recursion
-* Basic Problem Solving
 
 ## 💻 Language
 
 **C++**
 
+## 📁 Repository Structure
+
+```text
 LeetCode/
 │
 ├── Arrays/
-│   ├── Two_Sum.cpp
-│   ├── Remove_Duplicates.cpp
-│   └── Reverse_Array.cpp
-│
+├── Strings/
+├── Pointers/
 ├── Searching/
-│   ├── Binary_Search.cpp
-│   └── Linear_Search.cpp
-│
 ├── Sorting/
-│
-└── Recursion/
+├── Recursion/
+├── Mathematics/
+│   └── Reverse_Integer.cpp
+├── Linked_List/
+├── Stack/
+├── Queue/
+├── Hashing/
+├── Two_Pointers/
+├── Binary_Search/
+├── Bit_Manipulation/
+├── Dynamic_Programming/
+├── Trees/
+└── Graphs/
+```
 
-Each solution contains the problem solution with simple and understandable code.
+
+More problems will be added as I continue learning and solving LeetCode problems.
 
 ## 🎯 Goal
 
-To consistently solve LeetCode problems and improve my **DSA, logic building, and problem-solving skills**.
-
----
-
-⭐ More problems will be added as I continue learning.
+To improve my **DSA, logical thinking, and problem-solving skills** through consistent practice.
