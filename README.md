@@ -19,7 +19,8 @@ LeetCode/
 ├── Sorting/
 ├── Recursion/
 ├── Mathematics/
-│   └── Reverse_Integer.cpp
+│   ├── Reverse_Integer.cpp
+│   └── Palindrome_Number.cpp
 ├── Linked_List/
 ├── Stack/
 ├── Queue/
