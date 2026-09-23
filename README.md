@@ -15,17 +15,20 @@ A collection of **LeetCode problems solved by me** while learning and improving 
 
 **C++**
 
-## 📁 Repository Structure
-
-```text
 LeetCode/
 │
 ├── Arrays/
-├── Pointers/
+│   ├── Two_Sum.cpp
+│   ├── Remove_Duplicates.cpp
+│   └── Reverse_Array.cpp
+│
 ├── Searching/
+│   ├── Binary_Search.cpp
+│   └── Linear_Search.cpp
+│
 ├── Sorting/
+│
 └── Recursion/
-```
 
 Each solution contains the problem solution with simple and understandable code.
 
